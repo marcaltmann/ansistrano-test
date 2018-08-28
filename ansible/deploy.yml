@@ -45,7 +45,7 @@
     ansistrano_shared_files: []
 
   roles:
-    - carlosbuenosvinos.ansistrano-deploy
+    - ansistrano.deploy
 
   environment:
     SYMFONY_ENV: prod
